@@ -1,4 +1,4 @@
-# 👋 Hi, I'
+# 👋 Hi, I'm Marie Lois
 
 I'm a passionate full-stack developer who loves building web applications. I enjoy solving real-world problems and learning new technologies.
 
