@@ -34,4 +34,4 @@ I'm a passionate full-stack developer who loves building web applications. I enj
 
 - GitHub: [@Marie-Lois](https://github.com/Marie-Lois)
 - LinkedIn: [Marie Lois](https://www.linkedin.com/in/marie-lois/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BKJ%2Ff6pOVQtG3ulqK3zAXng%3D%3D)
-- Email: marieloisajongacham@gmail.com
+- Email: marieloisajongacham@gmail.com, marielois.ajongacha@isparkinno.com
